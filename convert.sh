@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Build the Docker image
-docker build -t cap2srt ./Cap2Srt
+docker build -t cap2srt ./src
 
 # Check if input file parameter is provided
 if [ -z "$1" ]; then
