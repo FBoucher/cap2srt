@@ -1,4 +1,8 @@
+
 # Cap2Srt - SBV to SRT Caption Converter
+
+[![Publish Docker image](https://github.com/FBoucher/cap2srt/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/FBoucher/cap2srt/actions/workflows/docker-publish.yml)
+
 
 A simple, lightweight command-line utility to convert SubViewer (SBV) caption files to SubRip (SRT) format.
 
